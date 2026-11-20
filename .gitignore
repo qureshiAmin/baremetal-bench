@@ -1,0 +1,12 @@
+# Python virtual environments (rebuilt from requirements*.txt)
+.venv/
+.nnvenv/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Archives and logs
+*.zip
+*.log
